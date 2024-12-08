@@ -1,0 +1,19 @@
+.notice-box {
+    height: 800px;
+  } 
+  
+  .overflow-y-scroll {
+    overflow-x: hidden;
+  }
+
+  .link-bg{
+    background: #F7F7F7;
+  }
+
+  .icon-img-size{
+    width: 25px;
+    height: 25px;
+  }
+  
+
+  
